@@ -89,6 +89,8 @@ go test ./tests
 Run the tests with:
 
 ```bash
+make test
+# or
 go test ./tests
 ```
 
